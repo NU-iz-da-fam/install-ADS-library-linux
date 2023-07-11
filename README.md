@@ -26,7 +26,7 @@ and see if its version >= 3.13.0. If your version is lower, pls update. Check th
 https://stackoverflow.com/questions/34443128/cmake-install-targets-in-subdirectories
 
 Sure that after updating cmake, your library will be installed properly. You can check the link below for reference how to update cmake.
-https://gist.github.com/bmegli/4049b7394f9cfa016c24ed67e5041930
+https://gist.github.com/bmegli/4049b7394f9cfa016c24ed67e5041930 .
 Then, remember to install by
 ```bash
 sudo make install
