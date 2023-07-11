@@ -17,7 +17,7 @@ mkdir build && cd build
 ```bash
 cmake ..
 cmake --build .
-cmake --install .
+sudo cmake --install .
 ```
 
 ## Warning
